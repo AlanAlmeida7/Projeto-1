@@ -80,12 +80,12 @@ section p {
 }
 
 .social-links img {
-    height: 8px;
+    height: 24px;
 }
 
 .social-links li {
     display: inline;
-    margin-right: 8px;
+    margin-right: 24px;
 }
 
 .social-links li a {
@@ -135,7 +135,7 @@ input:focus, textarea:focus {
 }
 
 footer {
-    outline-color: #182c61;
-    color: #ecf0f1;
+    background-color: #182c61;
+    color: #ecf0f1ff;
     padding: 16px 0;
 }
